@@ -65,7 +65,7 @@ def display_instructions(url):
         "mrkdwn": True,
         "attachments": [
             {
-                "text": "To view the list use '/shop list [all]'\nTo add an item use '/shop add <item>'\nTo mark an item use '/shop mark <item>'"
+                "text": "To view the list use '/shop list [all]'\nTo add an item use '/shop add <item>'\nTo mark an item use '/shop mark <item>'\nTo unmark an item use '/shop unmark <item>"
             }
         ]
     }
